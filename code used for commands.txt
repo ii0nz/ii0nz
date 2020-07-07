@@ -1,0 +1,5 @@
+Use in Command Prompt.
+
+1) pkgmgr /iu:"TelnetClient"
+2) Telnet Towel.blinkenlights.nl
+ Enjoy!! Star Wars!!

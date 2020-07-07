@@ -1,0 +1,4 @@
+I have both lines of code in the other txt document but this is just an explanation of how to use this very cool and interesting
+command. First click on the top cmd prompt shortcut and wait a couple of seconds until windows 32 pops up on the top left as user.
+Now exit command prompt and click on the second shortcut and there should be a couple sentances explaining. Then wait for the show
+to start and Enjoy!!!
